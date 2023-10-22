@@ -1,8 +1,8 @@
 # dio-estudo-java
 
-##DIAGRAMA DE CLASSES
+## DIAGRAMA DE CLASSES
 
-´´´mermaid
+```mermaid
 classDiagram
   class User {
     - name: String
